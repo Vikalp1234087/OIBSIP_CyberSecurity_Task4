@@ -1,25 +1,25 @@
-# Task 4: Research Report on Social Engineering Attacks
+# Task 5: Research Report on the Importance of Patch Management
 
 ## Objective
-The objective of this task is to research and understand social engineering attacks, their impact on organizations, and methods to prevent them.
+The objective of this task is to understand the significance of patch management in cybersecurity, the risks of unpatched systems, and best practices for effective patching.
 
 ## Task Description
-In this task, a detailed research report has been prepared on social engineering attacks including:
-- Phishing
-- Pretexting
-- Baiting
-
-The report explains how each attack works, real-world examples, impact, and preventive measures.
+A detailed research report has been prepared that explains:
+- What patch management is  
+- Risks of not applying patches  
+- Patch management process  
+- Best practices  
+- Real-world examples  
 
 ## Files Included
-- social_engineering_report.md – Detailed research report on social engineering attacks.
+- patch_management_report.md – Detailed research report on patch management  
 
 ## Tools Used
 - Internet research  
-- Markdown (.md) documentation
+- Markdown (.md) documentation  
 
 ## Outcome
-This task helped in gaining a clear understanding of human-based cyber attacks and strategies to prevent them.
+This task helped me understand the importance of patch management in maintaining system security and preventing cyber attacks.
 
 ## Conclusion
-Awareness and proper training are key to defending against social engineering attacks. Organizations must educate employees and implement proper verification methods to reduce risks.
+Regular patching and a structured patch management process are essential to keep systems secure and ensure business continuity.
