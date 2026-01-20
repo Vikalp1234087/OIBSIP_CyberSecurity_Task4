@@ -1,0 +1,64 @@
+# Task 5: Research Report on the Importance of Patch Management
+
+## Introduction
+Patch management is a critical component of cybersecurity that ensures all software, operating systems, and applications are updated with the latest fixes. Patches help fix vulnerabilities, improve performance, and prevent exploitation by cyber attackers. Regular patching reduces the risk of security breaches and keeps systems secure.
+
+---
+
+## 1. What is Patch Management?
+Patch management is the process of acquiring, testing, and installing software updates (patches) to fix security vulnerabilities, improve functionality, or enhance performance.  
+
+### Why It’s Important:
+- Fixes known vulnerabilities  
+- Improves system stability and performance  
+- Protects against malware and exploits  
+- Ensures compliance with security standards  
+
+---
+
+## 2. Risks of Not Applying Patches
+Failure to apply patches can leave systems exposed to attacks. Common risks include:
+
+- **Exploitation of vulnerabilities:** Attackers can target unpatched software to gain unauthorized access  
+- **Data breaches:** Sensitive information may be stolen  
+- **System downtime:** Exploits can crash systems or networks  
+- **Regulatory non-compliance:** Organizations may fail to meet cybersecurity standards  
+
+---
+
+## 3. Patch Management Process
+A typical patch management process includes:
+
+1. **Inventory** – Identify all hardware and software in use  
+2. **Assessment** – Determine which patches are required  
+3. **Testing** – Test patches in a safe environment before deployment  
+4. **Deployment** – Apply patches systematically  
+5. **Verification** – Confirm that patches were installed correctly  
+6. **Monitoring** – Continuously monitor systems for new vulnerabilities  
+
+---
+
+## 4. Best Practices
+- Automate patch management where possible  
+- Prioritize critical security patches  
+- Schedule regular patch cycles  
+- Maintain backup before deploying patches  
+- Educate users and IT staff about the importance of patching  
+
+---
+
+## 5. Real-World Examples
+- The **WannaCry ransomware attack (2017)** exploited unpatched Windows systems worldwide. Organizations that applied critical updates were protected.  
+- Many data breaches occur because systems remain unpatched, allowing attackers to exploit known vulnerabilities.
+
+---
+
+## Conclusion
+Patch management is essential for maintaining the security, stability, and performance of IT systems. Organizations must adopt a proactive approach, regularly applying patches and monitoring vulnerabilities to reduce risk and protect sensitive data.
+
+---
+
+## References
+- Cybersecurity best practices guides  
+- Articles on patch management and vulnerability mitigation  
+- Real-world case studies of patch-related attacks
